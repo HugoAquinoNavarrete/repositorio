@@ -1,3 +1,4 @@
 Primer archivo de mi primer repositorio en Git !!!!
 Estamos aprendiendo Git
 Entre mas se practica mejor se asimilan los conceptos
+Seguimos practicando los comandos "git" para que no se olviden
